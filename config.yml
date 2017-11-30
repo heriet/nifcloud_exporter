@@ -1,0 +1,9 @@
+---
+
+rdb:
+  - name: staging
+    region: east-1
+    accessKeyId: <YOUR ACCESS KEY>
+    secretAccessKey: <YOUR SECRET ACCESS KEY>
+    instances:
+      - name: myinstance
