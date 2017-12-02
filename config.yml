@@ -1,7 +1,7 @@
 ---
 
 rdb:
-  - name: staging
+  - name: develop
     region: east-1
     accessKeyId: <YOUR ACCESS KEY>
     secretAccessKey: <YOUR SECRET ACCESS KEY>
